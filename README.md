@@ -7,8 +7,10 @@
 **Python Version:** 3.5  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, beatiful soup
 ## Web Scraping
-By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. The features we scraped that included college statistics were:
-• College Games Played	• College Receptions	• College Receiver Yards	
+By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. Some of features we scraped that included college statistics were:
+8 College Games Played	
+* College Receptions
+* College Receiver Yards	
 * College Receiver Average	
 * College Receiver Touch Downs	
 * College Rushing Attempts	
@@ -16,33 +18,16 @@ By navigating to data/collecting_data you will find the web scrapers we used in 
 * College Rushing Average	
 * College Rushing Touch Downs	
 * College Scrimage Plays	
-* College Scrimage Yards	
-* College Scrimage Average	
-* College Scrimage Touch Downs		
-* College Passing Completions	
-* College Passing Attempts	
-* College Passing Percentage	
-* College Passing Yards	
-* College Passing Y/A	
-* College Passing AY/A	
-* College Passing Touch Downs	
-* College Passing Interceptions	
-* College Passing Rate
 
-The features we scraped that included combine statistics were:
+Some of features we scraped that included combine statistics were:
 * Position
 * School	
 * Weight	
 * 40 Yard Time 
 * Vertical	
 * Bench	
-* Broad Jump	
-* 3Cone	
-* Shuttle	
-* Team
-*Round	
-*Pick	
-*Year
+* Broad Jump <br>
+for the complete list of features [Check out the complete data frame](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Data/final_df.csv)
 
 ## Data Cleaning
 After scraping the data, we cleaned the data so that it was usable for our model.
