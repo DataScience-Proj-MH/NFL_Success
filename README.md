@@ -60,7 +60,7 @@ After scraping the data, we cleaned the data so that it was usable for our model
 ## EDA
 Our main concern was the different statistical significance a feature would have on a given position. To account for this, we split our data analysis we seperated the players by position; Quarterback, running back / full back , wide receiver, and tight end. We looked at the correlation between various features in relation to pro-bowls to find most influential features. Our explaoratory data analysis in more detail is linked below.
 
-[Quarterback Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Quarterback%20analysis.ipynb)
+[Quarterback Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Quarterback%20analysis.ipynb) <br>
 [Tight End Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/TE_analysis.ipynb)
 [Wide Receiver Data Analysis](google.com)
 [Running Back Data Analysis](google.com)
