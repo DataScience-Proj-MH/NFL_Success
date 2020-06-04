@@ -63,6 +63,6 @@ Our main concern was the different statistical significance a feature would have
 [Quarterback Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Quarterback%20analysis.ipynb) <br>
 ![40 Yard chart](images/40yd.png) <br>
 [Tight End Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/TE_analysis.ipynb) <br>
-![40 Yard chart](images/graphh.png)
+![40 Yard chart](images/grapph.png)
 [Wide Receiver Data Analysis](google.com) <br>
 [Running Back Data Analysis](google.com) <br>
