@@ -1,7 +1,7 @@
-# Data Science Player Draft Round Estimator
-* Created a tool that estimates in which round a player will be selected through analyzing their college and combine statistics
+# Data Science Player Success Predictor
+* Created a tool that estimates in whether a player will become a pro-bowl caliber prospect based of college statistics and combine results
 * Scraped over a thousand current NFL players from websites using selenium and beautiful soup
-* Engineered features to find which college/combine statistics best determine a players likelihood to fall in a specific round
+* Engineered features to find which college/combine statistics best determine a players likelihood to become a pro-bowler
 
 ## Code and Resources Used
 **Python Version:** 3.5  
@@ -45,3 +45,4 @@ The features we scraped that included combine statistics were:
 *Round	
 *Pick	
 *Year
+
