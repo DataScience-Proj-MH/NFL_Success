@@ -57,12 +57,13 @@ This graph shows the relation between college receiving and scrimmage touchdowns
 This graph shows the relation between college scrimmage yards to pro-bowls won by a player
 ![CScrimYds](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/images/fb_rb.png)<br>
 
-## Model Building and results
+## Model Building
 We split our data into training and testing data with a size anywhere from 20% - 40%. 
 
 We chose to use a Naive Bayes because of our small testing dataset. Our model would only predict whether a player would end up earning atleast 1 pro bowl or not
 
-# Our results were the following
+## Results
 | |Quarterback|Tight End|Wide Receiver|Running Back|
 |---|---|---|---|---|
 | % correctly predicted|72%|76%| 76%|79%|
+our model on average predicted ~76% of the time whether a player would make the probowl in their NFL career based on college and combine statistics. The lack of data available may have limited the performance of our model and restricted which models we were able to implement.
