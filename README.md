@@ -42,7 +42,7 @@ After scraping the data, we cleaned the data so that it was usable for our model
 *	Transformed founded date into age of company 
 
 ## EDA
-Our main concern was the different statistical significance a feature would have on a given position. To account for this, we split our data analysis we seperated the players by position; Quarterback, running back / full back , wide receiver, and tight end. We looked at the correlation between various features in relation to pro-bowls to find most influential features. Our explaoratory data analysis in more detail is linked below as well as a quick snipper of our data analysis.
+Our main concern was the different statistical significance a feature would have on a given position. To account for this, we split our data analysis we seperated the players by position; Quarterback, running back / full back , wide receiver, and tight end. We looked at the correlation between various features in relation to pro-bowls to find most influential features. Our explaoratory data analysis in more detail is linked below as well as some highlights from each individual data analysis.
 
 [Quarterback Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Quarterback%20analysis.ipynb) <br>
 This graph compares the amound of probowls won compared to each players 40 yard time (Quarterbacks Only) 
@@ -56,3 +56,6 @@ This graph shows the relation between college receiving and scrimmage touchdowns
 [Running Back Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/fb_and_rb_analysis.ipynb) <br>
 This graph shows the relation between college scrimmage yards to pro bowlswon by a player
 ![CScrimYds](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/images/fb_rb.png)<br>
+
+## Model Building and results
+For each 
