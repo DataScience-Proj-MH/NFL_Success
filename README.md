@@ -8,9 +8,7 @@
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, beatiful soup
 ## Web Scraping
 By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. The features we scraped that included college statistics were:
-* College Games Played	
-* College Receptions	
-* College Receiver Yards	
+• College Games Played	• College Receptions	• College Receiver Yards	
 * College Receiver Average	
 * College Receiver Touch Downs	
 * College Rushing Attempts	
