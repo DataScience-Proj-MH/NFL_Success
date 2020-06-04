@@ -10,9 +10,9 @@
 By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. The features we scraped that included college statistics were:
 * College Games Played	
 * College Receptions	
-* College Recieving Yards	
-* College Recieving Average	
-* College Receiving Touch Downs	
+* College Receiver Yards	
+* College Receiver Average	
+* College Receiver Touch Downs	
 * College Rushing Attempts	
 * College Rushing Yards	
 * College Rushing Average	
@@ -46,3 +46,21 @@ The features we scraped that included combine statistics were:
 *Pick	
 *Year
 
+## Data Cleaning
+After scraping the data, we cleaned the data so that it was usable for our model.
+
+*	Parsed the players name to remove unnecessary characters
+*	Split Round, Year, and Pick into unique features 
+*	Removed players who were never drafted
+* Removed players who did not have a record of college statistics	 
+*	Merged various years of a player's college statistics and combine results to fit in a single row
+*	Merged a players NFL statistics with their college and combine statistics 
+*	Transformed founded date into age of company 
+
+## EDA
+Our main concern was the different statistical significance a feature would have on a given position. To account for this, we split our data analysis we seperated the players by position; Quarterback, running back / full back , wide receiver, and tight end. We looked at the correlation between various features in relation to pro-bowls to find most influential features. Our explaoratory data analysis in more detail is linked below.
+
+[Quarterback Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Quarterback%20analysis.ipynb)
+[Tight End Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/TE_analysis.ipynb)
+[Wide Receiver Data Analysis](google.com)
+[Running Back Data Analysis](google.com)
