@@ -1,5 +1,5 @@
 # Data Science Player Success Predictor
-* Created a tool that estimates in whether a player will become a pro-bowl caliber prospect based of college statistics and combine results
+* Created a tool that estimates in whether a player will become a pro-bowl caliber prospect based off of college statistics and combine results
 * Scraped over a thousand current NFL players from websites using selenium and beautiful soup
 * Engineered features to find which college/combine statistics best determine a players likelihood to become a pro-bowler
 
