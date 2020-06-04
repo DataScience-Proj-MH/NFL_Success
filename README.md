@@ -66,4 +66,5 @@ We chose to use a Naive Bayes because of our small testing dataset. Our model wo
 | |Quarterback|Tight End|Wide Receiver|Running Back|
 |---|---|---|---|---|
 | % correctly predicted|72%|76%| 76%|79%|
-our model on average predicted ~76% of the time whether a player would make the probowl in their NFL career based on college and combine statistics. The lack of data available may have limited the performance of our model and restricted which models we were able to implement.
+
+Our model on average predicted ~76% of the time whether a player would make the probowl in their NFL career based on college and combine statistics. The lack of data available may have limited the performance of our model and restricted which models we were able to implement.
