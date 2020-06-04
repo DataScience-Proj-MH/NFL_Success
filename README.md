@@ -56,3 +56,13 @@ This graph shows the relation between college receiving and scrimmage touchdowns
 [Running Back Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/fb_and_rb_analysis.ipynb) <br>
 This graph shows the relation between college scrimmage yards to pro-bowls won by a player
 ![CScrimYds](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/images/fb_rb.png)<br>
+
+## Model Building and results
+We split our data into training and testing data with a size anywhere from 20% - 40%. 
+
+We chose to use a Naive Bayes because of our small testing dataset. Our model would only predict whether a player would end up earning atleast 1 pro bowl or not
+
+# Our results were the following
+| |Quarterback|Tight End|Wide Receiver|Running Back|
+|---|---|---|---|---|
+| % correctly predicted|72%|76%| 76%|79%|
