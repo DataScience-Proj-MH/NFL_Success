@@ -4,7 +4,7 @@
 * Engineered features to find which college/combine statistics best determine a players likelihood to fall in a specific round
 
 ## Code and Resources Used
-**Python Version:** 3.5
+**Python Version:** 3.5 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, beautifulsoup
 
 ## Web Scraping
