@@ -5,7 +5,7 @@
 
 ## Code and Resources Used
 **Python Version:** 3.5 
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, beautifulsoup
+\n**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, beautifulsoup
 
 ## Web Scraping
 By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. The features we scraped that included college statistics were:
