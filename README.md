@@ -65,6 +65,6 @@ This graph compares the amound of probowls won compared to each players 40 yard 
 ![40 Yard chart](images/40yd.png) <br>
 [Tight End Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/TE_analysis.ipynb) <br>
 Compares the receiving touchdowns against probowls won by a player
-![recTD](images/grapph.png)
+![recTD](images/grapph.png) <br>
 [Wide Receiver Data Analysis](google.com) <br>
 [Running Back Data Analysis](google.com) <br>
