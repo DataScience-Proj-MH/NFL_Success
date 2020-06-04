@@ -26,7 +26,8 @@ Some of features we scraped that included combine statistics were:
 * 40 Yard Time 
 * Vertical	
 * Bench	
-* Broad Jump <br>
+* Broad Jump
+
 For the complete list of features [Check out the complete data frame](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/Data/final_df.csv)
 
 ## Data Cleaning
