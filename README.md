@@ -7,27 +7,13 @@
 **Python Version:** 3.5  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, beatiful soup
 ## Web Scraping
-By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. The features we scraped that included college statistics were:
-• College Games Played	• College Receptions	• College Receiver Yards	
-* College Receiver Average	
-* College Receiver Touch Downs	
-* College Rushing Attempts	
-* College Rushing Yards	
-* College Rushing Average	
-* College Rushing Touch Downs	
-* College Scrimage Plays	
-* College Scrimage Yards	
-* College Scrimage Average	
-* College Scrimage Touch Downs		
-* College Passing Completions	
-* College Passing Attempts	
-* College Passing Percentage	
-* College Passing Yards	
-* College Passing Y/A	
-* College Passing AY/A	
-* College Passing Touch Downs	
-* College Passing Interceptions	
-* College Passing Rate
+By navigating to data/collecting_data you will find the web scrapers we used in order to collect 65 features from profootballreference.com. The features we scraped that included college statistics were: <br>
+• College Games Played	             • College Receptions	        • College Receiver Yards	• College Receiver Average <br>
+• College Receiver Touch Downs       • College Rushing Attempts	  • College Rushing Yards	  • College Rushing Average	<br>
+• College Rushing Touch Downs	       • College Scrimage Plays     • College Scrimage Yards	• College Scrimage Average<br>
+• College Scrimage Touch Downs		   • College Passing Completion • College Passing Attempts• College Passing Percentage	<br>
+• College Passing Yards	             • College Passing Y/A	      • College Passing AY/A    • College Passing Touch Downs	<br>
+• College Passing Interceptions	     • College Passing Rate <br>
 
 The features we scraped that included combine statistics were:
 * Position
@@ -64,5 +50,5 @@ This graph compares the amound of probowls won compared to each players 40 yard 
 [Tight End Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/TE_analysis.ipynb) <br>
 Compares the receiving touchdowns against probowls won by a player (Tight Ends Only)
 ![recTD](images/grapph.png) <br>
-[Wide Receiver Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/wide_receiver_analysis.ipynb) <br>
-[Running Back Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/fb_and_rb_analysis.ipynb) <br>
+[Wide Receiver Data Analysis](google.com) <br>
+[Running Back Data Analysis](google.com) <br>
